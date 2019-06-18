@@ -1,0 +1,87 @@
+Trick 1:
+
+Reverse a String:
+
+>>> string=  “pythonTricks"
+>>> print( "Reverse is",string[::-1])
+
+Trick  2:
+L= [1,2,3,6]
+Store all four values of the list in 4 new variables
+>>> L = [1, 2, 3,6]
+>>> m,x, y, z= L
+>>>m
+1
+>>> x
+2
+>>> y
+3
+>>> z
+6
+
+Trick 3:
+
+L= [“Python ", “is", “a", “popular ",”programming”,”language.”]
+Create a single string from all the elements in list:
+>>> print (" ".join(L))
+Python is a popular programming language.
+
+Trick 4:
+L1 = ['a', 'b', 'c', 'd']
+L2 = ['p', 'q', 'r', 's']
+Write a Python code to print
+ap
+bq
+cr
+ds
+>>> for a, b in zip(list1,list2):
+...   …….  print (a, b)
+...
+a p
+b q
+c r
+d s
+Trick 5:
+Swap two numbers. 
+>>> number1=10
+>>> number2=20
+>>>number2 , number1 =number1, number2
+>>> number1
+20
+>>> number2
+10
+
+Trick 6:
+Print “pythonpythonpythonpython” without using loop.
+>>> print (“python”*4)
+‘pythonpythonpythonpython’
+
+Trick 7:
+L = [[1, 2], [3, 4], [5, 6]]
+.
+Output:- [1, 2, 3, 4, 5, 6]
+>>> import itertools 
+>>> list(itertools.chain.from_iterable(L))
+[1, 2, 3, 4, 5,6]
+
+Trick 8:
+Taking a string input.
+Using lambda,map function convert a string to a list.
+
+>>> result = map(lambda a : int(a) ,input().split())
+1 2 3 4
+>>> result
+[1, 2, 3, 4]
+
+Trick 9:
+Passing more than one value inside list using list comprehension. 
+>>> L=list(x for x in (1,2,3,4))
+[1,2,3,4]
+
+Trick 10:
+Initialize multiple variable using dictionary comprehension.   
+>>> string=’aeiou’
+>>> Count={char:0 for char in string}
+{‘a’: 0,  ‘e’:0, ‘i’: 0, ‘o’: 0,‘u’: 0}
+
+
