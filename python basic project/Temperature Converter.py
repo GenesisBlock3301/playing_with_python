@@ -46,12 +46,12 @@ class Calulator:
             celsius = tryToConvert(float(temperature), toFahrenhiet)
             t = TemperatureInput(scale,celsius)
             print(t.show())
-            BoilingVerDict(temperature)
+
         elif scale == 'f':
             fahrenheit = tryToConvert(float(temperature), toCelsius)
             t = TemperatureInput(scale, fahrenheit)
             print(t.show())
-            BoilingVerDict(temperature)
+        
 
 
 
