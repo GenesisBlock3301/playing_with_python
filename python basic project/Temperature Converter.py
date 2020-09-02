@@ -16,11 +16,6 @@ def tryToConvert(temperature, convert):
     return val
 
 
-def BoilingVerDict(temperature):
-    if temperature >= 100:
-        return "This would be boiled."
-    else:
-        return "This wouldn't be boiled."
 
 def scaleName():
     dic = {
@@ -42,10 +37,6 @@ class TemperatureInput:
 
 
 class Calulator:
-    def __init__(self, scale='', temperature=''):
-        self.scale = scale
-        self.temperature = temperature
-        # self.changeTem = changeTem
 
     def calculate(self):
         print("Enter your scale name: ")
@@ -55,10 +46,12 @@ class Calulator:
             celsius = tryToConvert(float(temperature), toFahrenhiet)
             t = TemperatureInput(scale,celsius)
             print(t.show())
+            BoilingVerDict(temperature)
         elif scale == 'f':
             fahrenheit = tryToConvert(float(temperature), toCelsius)
             t = TemperatureInput(scale, fahrenheit)
             print(t.show())
+            BoilingVerDict(temperature)
 
 
 
