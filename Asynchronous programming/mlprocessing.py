@@ -3,11 +3,14 @@ from multiprocessing import *
 # number of CPU core
 # print(cpu_count())
 
+
 def myFunc():
     print("Hello world")
 
+
 def lang_func(lang):
     print(lang)
+
 
 if __name__ == '__main__':
     # proc = Process(target=myFunc)
@@ -19,5 +22,6 @@ if __name__ == '__main__':
         proc = Process(target=lang_func,args=(i,))
         process.append(proc)
         proc.start()
+        print(proc)
     # for p in process:
     #     p.join()
