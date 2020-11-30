@@ -21,5 +21,6 @@ search.send("Sifat")
 input("Press any key: ")
 search.send("Nur Amin")
 search.close()
+# show error
 search.send("Nur Amin")
 
