@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <button onclick="sendMsg()">Send Messgae</button>
+</head>
+<body>
+<script>
+    const socket = new WebSocket("ws://localhost:5000")
+    socket.addEventListener('open',function (e) {
+        socket.send("Hello server")
+    })
+    socket.addEventListener('message',function (e) {
+        console.log(e.data)
+    })
+    socket.addEventListener('close',function (e) {
+        console.log("Disconnected to WS server.")
+    })
+    const sendMsg=()=>{
+        socket.send("Hello from client-2")
+    }
+</script>
+</body>
+</html>

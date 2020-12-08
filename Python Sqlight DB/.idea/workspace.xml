@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba66da40-392f-42da-9158-b7141992a173" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Asynchronous programming/hary-concept/Coroutine.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Asynchronous programming/hary-concept/Coroutine.py" afterDir="false" />
+    <list default="true" id="43623723-839e-4a27-9cfe-f2e15a8a791b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Web Scrapping(bs4)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Scrapping(bs4)/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,53 +11,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Web_Scrapping$scrapping_2.coverage" NAME="scrapping-2 Coverage Results" MODIFIED="1606748399802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Web Scrapping(bs4)" />
-    <SUITE FILE_PATH="coverage/Web_Scrapping$scrap_1.coverage" NAME="scrap-1 Coverage Results" MODIFIED="1606748293040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Web Scrapping(bs4)" />
-    <SUITE FILE_PATH="coverage/Web_Scrapping$class_and_id_wise_scrapping.coverage" NAME="class and id wise scrapping Coverage Results" MODIFIED="1606748697108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Web Scrapping(bs4)" />
+    <SUITE FILE_PATH="coverage/Python_Sqlight_DB$PythonWithDB.coverage" NAME="PythonWithDB Coverage Results" MODIFIED="1606799981175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Sqlight_DB$create_table_from_sql_scripts.coverage" NAME="create table from sql scripts Coverage Results" MODIFIED="1606801320299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Sqlight_DB$Create_table.coverage" NAME="Create table Coverage Results" MODIFIED="1606800341216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sqlightFirst" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Web Scrapping(bs4)/scrap-1.py">
+        <entry file="file://$PROJECT_DIR$/PythonWithDB.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+              <caret line="8" column="21" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Web Scrapping(bs4)/scrapping-2.py">
+        <entry file="file://$PROJECT_DIR$/Create table.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="141">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Web Scrapping(bs4)/class and id wise scrapping.py">
+        <entry file="file://$PROJECT_DIR$/sqlite.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" lean-forward="true" selection-end-line="9" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Web Scrapping(bs4)/scrap  seven days weather data.py">
+        <entry file="file://$PROJECT_DIR$/create table from sql scripts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="272">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -77,10 +87,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../Web Scrapping(bs4)/scrap-1.py" />
-        <option value="$PROJECT_DIR$/../Web Scrapping(bs4)/scrapping-2.py" />
-        <option value="$PROJECT_DIR$/../Web Scrapping(bs4)/class and id wise scrapping.py" />
-        <option value="$PROJECT_DIR$/../Web Scrapping(bs4)/scrap  seven days weather data.py" />
+        <option value="$PROJECT_DIR$/PythonWithDB.py" />
+        <option value="$PROJECT_DIR$/Create table.py" />
+        <option value="$PROJECT_DIR$/sqlite.sql" />
+        <option value="$PROJECT_DIR$/create table from sql scripts.py" />
       </list>
     </option>
   </component>
@@ -101,8 +111,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Web Scrapping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web Scrapping(bs4)" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Sqlight DB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Sqlight DB" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,21 +138,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class and id wise scrapping">
-    <configuration name="class and id wise scrapping" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Web Scrapping" />
+  <component name="RunManager" selected="Python.create table from sql scripts">
+    <configuration name="Create table" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Sqlight DB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Web Scrapping(bs4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Web Scrapping(bs4)/class and id wise scrapping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Create table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,20 +161,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scrap-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Web Scrapping" />
+    <configuration name="PythonWithDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Sqlight DB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Web Scrapping(bs4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Web Scrapping(bs4)/scrap-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonWithDB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,20 +183,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scrapping-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Web Scrapping" />
+    <configuration name="create table from sql scripts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Sqlight DB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Web Scrapping(bs4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Web Scrapping(bs4)/scrapping-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create table from sql scripts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,9 +207,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.class and id wise scrapping" />
-        <item itemvalue="Python.scrapping-2" />
-        <item itemvalue="Python.scrap-1" />
+        <item itemvalue="Python.create table from sql scripts" />
+        <item itemvalue="Python.Create table" />
+        <item itemvalue="Python.PythonWithDB" />
       </list>
     </recent_temporary>
   </component>
@@ -208,40 +218,39 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba66da40-392f-42da-9158-b7141992a173" name="Default Changelist" comment="" />
-      <created>1606746897233</created>
+      <changelist id="43623723-839e-4a27-9cfe-f2e15a8a791b" name="Default Changelist" comment="" />
+      <created>1606799413166</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606746897233</updated>
-      <workItem from="1606746903986" duration="2591000" />
+      <updated>1606799413166</updated>
+      <workItem from="1606799420220" duration="2052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2591000" />
+    <option name="totallyTimeSpent" value="2052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info active="true" anchor="right" id="Database" visible="true" weight="0.12405446" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -251,40 +260,31 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Web Scrapping(bs4)/scrap-1.py">
+    <entry file="file://$PROJECT_DIR$/Create table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonWithDB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <caret line="8" column="21" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Web Scrapping(bs4)/scrapping-2.py">
+    <entry file="file://$PROJECT_DIR$/sqlite.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Web Scrapping(bs4)/class and id wise scrapping.py">
+    <entry file="file://$PROJECT_DIR$/create table from sql scripts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" lean-forward="true" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Web Scrapping(bs4)/scrap  seven days weather data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
