@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53a8ff1a-4204-49ea-b640-cf832aba1b33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../File Handling/readFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../File Handling/readFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Websocket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Websocket/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="53a8ff1a-4204-49ea-b640-cf832aba1b33" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Job_finding_BD.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            <state relative-caret-position="102">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -68,7 +64,9 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scrapping_data.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1216" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -87,8 +85,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/scrap  seven days weather data.py" />
-        <option value="$PROJECT_DIR$/scrapping_data.txt" />
         <option value="$PROJECT_DIR$/Job_finding_BD.py" />
+        <option value="$PROJECT_DIR$/scrapping_data.txt" />
       </list>
     </option>
   </component>
@@ -202,12 +200,12 @@
       <workItem from="1607056249511" duration="2426000" />
       <workItem from="1607513052102" duration="598000" />
       <workItem from="1607515547185" duration="78000" />
-      <workItem from="1607518440666" duration="3726000" />
+      <workItem from="1607518440666" duration="4665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8622000" />
+    <option name="totallyTimeSpent" value="9561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -218,7 +216,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39934534" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39934534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Job_finding_BD.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        <state relative-caret-position="102">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -284,7 +282,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapping_data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1216" />
+      </provider>
     </entry>
   </component>
 </project>
