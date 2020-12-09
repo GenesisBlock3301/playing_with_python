@@ -6,6 +6,7 @@ r = open('text.txt','r').read()
 print(r)
 
 # read one line
+print("--------------------------------------")
 ReadOneLine = open('text.txt','r').readline()
 print("Read One line: ",ReadOneLine)
 with open('text.txt','r') as f:
