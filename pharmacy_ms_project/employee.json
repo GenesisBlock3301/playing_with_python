@@ -1,20 +1,11 @@
 [
     {
-        "employee_id": 1,
-        "employee_name": "Sifat",
-        "address": "Polashtola",
-        "phone_number": "904538435",
-        "salary": 10000.0,
-        "payment": 9000.0,
-        "salary_due": 1000.0
-    },
-    {
         "employee_id": 2,
-        "employee_name": "Nas",
-        "address": "Nandina",
-        "phone_number": "01758809212",
-        "salary": 20000.0,
-        "payment": 1900.0,
-        "salary_due": 18100.0
+        "employee_name": "Protiva",
+        "address": "Jamalpur",
+        "phone_number": "950358",
+        "salary": 15000.0,
+        "payment": 13000.0,
+        "salary_due": 2000.0
     }
 ]
