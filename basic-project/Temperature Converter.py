@@ -6,7 +6,7 @@ def toCelsius(fahrenheit):
 
 
 def toFahrenhiet(celsius):
-    return (celsius * 9 / 5) + 32;
+    return (celsius * 9 / 5) + 32
 
 
 def tryToConvert(temperature, convert):
@@ -16,13 +16,13 @@ def tryToConvert(temperature, convert):
     return val
 
 
-
 def scaleName():
     dic = {
         'c': "Celsius",
         'f': 'Fahrenheit'
     }
     return dic
+
 
 class TemperatureInput:
 
@@ -33,7 +33,6 @@ class TemperatureInput:
     def show(self):
         unit = scaleName()
         return f"Temperature is {self.temperature:0.2f} {unit[self.scale]}"
-
 
 
 class Calulator:
@@ -51,8 +50,6 @@ class Calulator:
             fahrenheit = tryToConvert(float(temperature), toCelsius)
             t = TemperatureInput(scale, fahrenheit)
             print(t.show())
-        
-
 
 
 if __name__ == "__main__":
