@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/advance-python-practice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cryptograpy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/python basic project/Mini-project" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/python basic project/Tic-tac-toe" vcs="Git" />
   </component>
 </project>
