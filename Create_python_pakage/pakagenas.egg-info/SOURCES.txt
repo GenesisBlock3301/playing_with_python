@@ -1,6 +1,0 @@
-setup.py
-pakagenas/__init__.py
-pakagenas.egg-info/PKG-INFO
-pakagenas.egg-info/SOURCES.txt
-pakagenas.egg-info/dependency_links.txt
-pakagenas.egg-info/top_level.txt
