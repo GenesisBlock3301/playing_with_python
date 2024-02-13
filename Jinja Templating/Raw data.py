@@ -9,11 +9,10 @@ persons = [
     {'name': 'Dragomir', 'age': 54}
 ]
 
-#load file of templates
+# load file of templates
 file_loader = FileSystemLoader('templates')
-#load file as a environmnet
+# load file as a environment
 env = Environment(loader=file_loader)
 template = env.get_template('index.html')
 output = template.render(persons=persons)
 print(output)
-
